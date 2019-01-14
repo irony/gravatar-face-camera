@@ -1,0 +1,18 @@
+{
+  "name": "gravatar-face-camera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.1.0",
+    "face-recognition": "^0.9.4",
+    "gravatar-url": "^2.0.0",
+    "node-fetch": "^2.3.0",
+    "pipe2jpeg": "^0.2.7"
+  }
+}
