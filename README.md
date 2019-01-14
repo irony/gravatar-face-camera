@@ -3,7 +3,7 @@ Face recognition using email adresses in mjpg stream
 
 ## How to install:
 
-  npm install gravatar-face-camera
+    npm install gravatar-face-camera
   
 ## How to use:
 
